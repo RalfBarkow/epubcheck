@@ -72,6 +72,7 @@ Previous contributors include:
 - Martin Kraetke
 - Masayoshi Takahashi
 - Matt Garrish
+- Merijn de Haen
 - MURATA Makoto
 - Paul Norton
 - Peter Sorotokin
@@ -80,10 +81,12 @@ Previous contributors include:
 - Satoshi KOJIMA
 - Stephan Kreutzer
 - Steve Antoch
+- Thiago de Oliveira Pereira
 - Thomas Ledoux
 - Tobias Fischer
 - Tomohiko Hayashi
 - Tzviya Siegman
+- Vincent Gros
 
 
 Most of the EPUBCheck functionality comes from the schema validation tool Jing
